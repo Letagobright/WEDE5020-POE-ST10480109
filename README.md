@@ -19,6 +19,9 @@ Design and user experience
 The website will have a clean white background, accents in black and bold red, including a smooth transition between pages .
 The product page will feature different types of sneakers with including prices, colours , brands, in Stock/Coming Soon sizes for each sneaker.
 
+
+I implemented CSS code into my website to change the colours of the website. The website is now smoother and presentable with the CSS coding .The navigation bar has also been updated using CSS coding.
+
 Timeline and Milestone
 Making the website will take up to 8 weeks to complete. 
 
