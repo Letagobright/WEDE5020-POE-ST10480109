@@ -22,6 +22,7 @@ The product page will feature different types of sneakers with including prices,
 
 I implemented CSS code into my website to change the colours of the website. The website is now smoother and presentable with the CSS coding .The navigation bar has also been updated using CSS coding.
 
+i added a review page , enquiry page ,java script, robot.txt, sitemap to the website. with the things that i have added to the website customers can now review sneakers and see where we are located.
 Timeline and Milestone
 Making the website will take up to 8 weeks to complete. 
 
